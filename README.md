@@ -13,4 +13,6 @@ Pink
 
 Orange
 
+Indigo
+
 Yellow
