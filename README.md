@@ -1,8 +1,6 @@
 # Adad3400
 The Rainbow and the Unicorn
 
-Butterflies are pretty
-
 Red
 
 Purple
@@ -19,4 +17,6 @@ Indigo
 
 Yellow
 
-Unicorn
+Unicorns
+
+I like Butterflies too
